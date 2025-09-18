@@ -7,9 +7,9 @@ permalink: /
 
 # Willkommen!
 
-Hier findest du die Dokumentation der 4. Semester Arbeit Orchestrierung eines Geschäftsprozesses mit Kubernetes, CI/CD und Camunda BPM
+Hier findest du die Dokumentation meiner  Diplomarbeit "*Taskrunner in Kubernetes*"
 
-In dieser Semesterarbeit wurde ein bestehender Prozess der Firma ISEAG erneuert und verbessert. Dazu wurden verschiedene Tools eingesetzt. Um die Qualitätsverbesserung durchführen zu können, wurde mit dem Qualitätsmanagement *Lean Six Sigma* gearbeitet.
+In der Diplomarbeit wird ein Windows-Skriptsever mit Kubernetes in Azure abgelöst. Weiter Informationen findest du [hier].(./Einleitung/2.1_About.md)
 
 Diese Webseite wird von Github Pages gehostet.
 Sie wird durch meine Einträge im Gitrepo stetig aktualisiert und erneuert. Test
@@ -19,7 +19,3 @@ Ich wünsche dir viel Spass beim Lesen!
 ![Welcome](/ressources/bilder/welcome-back.png){: width="250px" }
 
 [Quelle](/Quellenverzeichnis/index.md#startseite)
-
-**Disclaimer**
-
-Passwörter und Secrets könnten in der Dokumentation enthalten sein. Dies ist beabsichtigt und würde in einer Produktionsumgebung nicht so umgesetzt werden. Nach Abschluss der Semesterarbeit wird die Umgebung abgebaut, wodurch diese Informationen nicht mehr von Bedeutung sind.
