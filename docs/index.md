@@ -9,7 +9,7 @@ permalink: /
 
 Hier findest du die Dokumentation meiner  Diplomarbeit "*Taskrunner in Kubernetes*"
 
-In der Diplomarbeit wird ein Windows-Skriptsever mit Kubernetes in Azure abgelöst. Weiter Informationen findest du [hier].(./Einleitung/2.1_About.md)
+In der Diplomarbeit wird ein Windows-Skriptsever mit Kubernetes in Azure abgelöst. Weiter Informationen findest du [hier](./Einleitung/2.1_About.md)
 
 Diese Webseite wird von Github Pages gehostet.
 Sie wird durch meine Einträge im Gitrepo stetig aktualisiert und erneuert. Test
