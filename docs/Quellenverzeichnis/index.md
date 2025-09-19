@@ -27,14 +27,8 @@ Im Quellenverzeichnis findet man die Quellen der genutzten Bilder und Quellen de
 ## Goals
 [Flaticon](https://www.flaticon.com/free-icon/goal_1534999?term=goals&related_id=1534999)
 
-## Kanban-Board
-[Ingenieur.de](https://www.ingenieur.de/wp-content/uploads/2019/01/Kanban-Board-illustriert_B74336643_bakhtiarzein-e1547564483745.jpg)
-
-## Scrum-Methode
-[Media Graphassets](https://media.graphassets.com/j3ITgEIYTVmdAXePjpoR)
-
-## Lean-Six-Sigma
-[Lean Six Sigma](https://www.georgiaruralhealth.org/wp-content/uploads/2022/01/lean-6-sigma.png)
+## Projektmanagement
+[Flaticon](https://www.flaticon.com/free-icon/task-management_15757011?term=project+management&page=1&position=15&origin=search&related_id=15757011)
 
 ## Kubernetes
 [Kubernetes](https://tecbrix.com/wp-content/uploads/2022/05/kubernetes.png)
@@ -74,11 +68,9 @@ Im Quellenverzeichnis findet man die Quellen der genutzten Bilder und Quellen de
 
 # Hilfsmittel
 
-## Lean Six Sigma
-[DMAIC](https://six-sigma-deutschland.de/was-ist-lean-six-sigma/#:~:text=Lean%20Six%20Sigma%20ist%20eine%20Methode%2C%20die%20vor%20allem%20in,Verschwendungen%20vermieden%20und%20Kosten%20eingespart.)
+## Shape Up
+[Book](https://basecamp.com/shapeup/0.3-chapter-01)
 ## Github Action
 [Anleitung für Runner](https://docs.github.com/en/actions/hosting-your-own-runners/managing-self-hosted-runners-with-actions-runner-controller/quickstart-for-actions-runner-controller#legal-notice)
 ## ChatGPT
 [ChatGPT](https://chat.openai.com/)
-## Philipp Stark Repository
-[GithubRepo](https://github.com/pstark-code/kubernetes-homelab)
