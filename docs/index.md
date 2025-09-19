@@ -7,7 +7,7 @@ permalink: /
 
 # Willkommen!
 
-Hier findest du die Dokumentation meiner  Diplomarbeit "*Taskrunner in Kubernetes*"
+Hier findest du die Dokumentation meiner  Diplomarbeit "*POC: Task Runner in Kubernetes*"
 
 In der Diplomarbeit wird ein Windows-Skriptsever mit Kubernetes in Azure abgelöst. Weiter Informationen findest du [hier](./Einleitung/2.1_About.md)
 
