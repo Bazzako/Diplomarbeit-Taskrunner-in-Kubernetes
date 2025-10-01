@@ -39,20 +39,11 @@ Im Quellenverzeichnis findet man die Quellen der genutzten Bilder und Quellen de
 ## Hauptteil
 [BPM](https://www.flaticon.com/free-icon/cloud-database_3715079?term=cloud+server&related_id=3715079)
 
-### Define
-[Flaticon](https://www.flaticon.com/free-icon/job-description_10165469?term=define&page=1&position=17&origin=search&related_id=10165469)
+### Shaping-Phasen
+[Flaticon](https://www.flaticon.com/free-icon/creative-mind_18986729?term=forming&page=1&position=84&origin=search&related_id=18986729)
 
-### Measure
-[Flaticon](https://www.flaticon.com/free-icon/design-process_10068822?related_id=10068780&origin=search)
-
-### Analyze
-[Flaticon](https://www.flaticon.com/free-icon/analysing_10496544?term=analyse&page=1&position=12&origin=tag&related_id=10496544)
-
-### Improve
+### Building-Phasen
 [Flaticon](https://www.flaticon.com/free-icon/working_9483031?term=improve&related_id=9483031)
-
-### Control
-[Flaticon](https://www.flaticon.com/free-icon/efficacy_9660517?term=efficacy&page=1&position=70&origin=search&related_id=9660517)
 
 ## Quellenverzeichnis-Logo
 [Flaticon](https://www.flaticon.com/free-icon/loupe_751381?term=loupe&related_id=751381)
