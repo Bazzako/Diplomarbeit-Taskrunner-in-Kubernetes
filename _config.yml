@@ -30,7 +30,7 @@ github_username:  "Bazzako"
 
 # external stuff
 aux_links:
-  Projektplanung: 
+  Projektplanung: https://github.com/users/Bazzako/projects/8/views/1
   Git Repo: https://github.com/Bazzako/Diplomarbeit-Taskrunner-in-Kubernetes
 aux_links_new_tab: true
 
